@@ -1,0 +1,16 @@
+# Local secrets / credentials
+secrets.h
+credentials.h
+.env
+
+# Arduino build artifacts
+build/
+*.bin
+*.elf
+*.map
+*.hex
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/

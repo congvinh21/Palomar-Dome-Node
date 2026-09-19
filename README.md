@@ -1,3 +1,4 @@
+![Palomar Dome Node Prototype](media/prototype_front.jpeg)
 # Palomar Dome Node
 
 ### Experimental Sky Quality & Atmospheric Monitoring Prototype
